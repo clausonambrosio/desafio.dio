@@ -1,0 +1,11 @@
+# Esquema Conceitual - Oficina Mecânica
+
+## Diagrama Entidade-Relacionamento (DER)
+
+## Legenda
+
+* Retângulos: Entidades
+* Elipses: Atributos
+* Losangos: Relacionamentos
+* Linhas: Conexões entre entidades e atributos/relacionamentos
+* Cardinalidade: 1:1, 1:N, N:N
